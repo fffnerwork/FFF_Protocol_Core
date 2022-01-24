@@ -14,7 +14,6 @@ FFF consensus mechanism: the application of a new work-proof mechanism, network 
 3.integrates the virtual machine intelligence based on LUA contracts open operating system, for developers to use block chain technology greatly reduces the cost of technology, for WEB3.0, Metaverse, communications technology, cloud computing, cloud storage, big data, artificial intelligence, Internet of things, no equipment technology development provides a solid underlying technology guarantee.
 
 4.Support the rapid deployment of "alliance chain", protect privacy and data security while sharing data according to demand, separate the data itself from the value of use, and break the problem of data islands in the process of data circulation. This feature makes the circulation of big data both controlled and open, and makes the data truly belong to individuals and enterprises themselves.
-
 5. FFF itself is not a single block chain technology, but has a specific structure of technical system, such as compatibility IPFS/RIPPLE technology. As the beginning of blockchain 3.0 technology, FFF is a distributed computing power system, distributed storage system and distributed cloud operating system based entirely on blockchain, supporting applications (DAPPS) to run on blockchain, and a supercomputer with self-deep learning based entirely on blockchain.
 
 For more information about FFF, please read the whitepaper:
